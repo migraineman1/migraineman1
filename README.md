@@ -8,8 +8,8 @@
 - 🧑‍💻 I’m currently learning Android Programming thanks to Hyperskill, having gotten my Kotlin Developer Certiicate. Also learning to use Android Studio, GitHub, Gradle, JUnit, and MockK
 - 🙏 I'm interested in various world religions and am currently studying Sanskrit (in Devanagari), so I can read The Mahābhārata, The Ramayana, and The Upanishads.
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for an Android Programming position with a reliable Company.
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: perrycharles816@gmail.com
+- 😄 Pronouns: He, Him
 - ⚡ Fun fact: ...
